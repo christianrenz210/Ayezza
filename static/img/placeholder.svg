@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1236" viewBox="0 0 800 1236" role="img" aria-label="Ayezza placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E1E1E"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1236" fill="url(#bg)"/>
+  <rect x="24" y="24" width="752" height="1188" fill="none" stroke="#C9A227" stroke-width="2" opacity="0.5"/>
+  <g fill="none" stroke="#C9A227" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="300" y="470" width="200" height="160" rx="14"/>
+    <circle cx="350" cy="520" r="18"/>
+    <path d="M312 612 L372 552 L422 602 L462 562 L488 612"/>
+  </g>
+  <text x="400" y="720" fill="#E3C567" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" text-anchor="middle" letter-spacing="6">AYEZZA</text>
+  <text x="400" y="772" fill="#A8A8A0" font-family="Arial, sans-serif" font-size="26" text-anchor="middle" letter-spacing="8">PLACEHOLDER</text>
+</svg>
